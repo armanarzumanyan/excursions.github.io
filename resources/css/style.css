@@ -1,5 +1,4 @@
 h1 {
-    font-family: Verdana;
     font-weight: normal;
     font-size: 50px;
     color: white;
@@ -7,4 +6,24 @@ h1 {
 }
 body {
     background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.linkStyle {
+    color: aquamarine;
+    font-size: 16px;
+}
+.guide {
+    font-size: 42px;
+    color: white;
+    font-weight: 300;
+}
+.aboutEx {
+    font-size: 21px;
+    color: gray;
+}
+footer {
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
